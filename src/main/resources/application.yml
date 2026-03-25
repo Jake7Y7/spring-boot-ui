@@ -16,10 +16,10 @@ spring:
 spring:
   profiles: debug
   datasource:
-    username: ENC(cXhco38oKWp70Gim8YIEWg==)
-    password: ENC(RTTe2pm1HB4g8pb7mTFOzeHGpOVt2VyG)
+    username: 
+    password: 
     driver-class-name: oracle.jdbc.OracleDriver
-    url: ENC(LOoPc2BYq1Q4roaSBQ0B+t3IOmwd2BZPEShIJ0Zody5oi1EGDlSxt2WYJYaQPLPS28ea1/ZRzlCFYOI79hutBX04ZoSnTsV+pAiTTZFZCtAdVMHi1vIsAWHspeEvhMJPnL7bEVzCoyq8LhpuP0jt5XjZ8OYYR1VzNMbqE0Oq3zZy2WViRBLBFK/uDWK3nh4Wmj2C/mw6lu2j7KdDnLhjecZEHvvqxYDNXRM5uuPIHa5iBqhKi9N7EoAPUQqg7CxAFx+sa+r5mmmjOWOy/DAZnAh3CjGxevqUMLefNsqJpTK5rNrMsLsXwbmQhDJ8/GOvJK8L4IaqJ5VCRKya8zX4W1cVpE3HFfZfy9TsutBD/oQ=)
+    url: 
     
   jpa: 
     show-sql: true
@@ -34,10 +34,10 @@ spring:
 spring: 
   profiles: release
   datasource:
-    username: ENC(Pdzg771IDdfuxx3lw5MWlA==)
-    password: ENC(59mXriLkW8JxVOnyV5PkhcG1aAQD2XvC)
+    username: 
+    password: 
     driver-class-name: oracle.jdbc.OracleDriver
-    url: ENC(kwgPFJXyaeeESfdAdtjJ1BmmLixrJmYh5qG+09h40tpyu6r2n7RUExO+jrrGfK2ne1/sioBJSvGCebqpBFfTkce/7e9TrKN7sWg4XeNFdWt9083RUjZmzlWPufR/eAiSRg60zJzY5/38L4yyhaCB6r4abzPe1OQDYDMLP3gzzZeh6HIFqGhlvzwvT3rG36UNtVH4DPe/L8MDKBMaTiJApCM+PMiF6Gwx7A7GaRObeSIPww05Nx7DZO3K6Hykvn9l5Pmtmv/NUghvDL0DcYvaTv55pZFAOErcjgeF3qYu55dOmJXEIRTJqjrPLkCUf/Qf/uHseH1dTyxKc0jkFwni5PxF3aYrxsoNerA2H303xpM=)
+    url: 
 
   jpa: 
     show-sql: true
